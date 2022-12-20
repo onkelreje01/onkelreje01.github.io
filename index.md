@@ -1,6 +1,6 @@
 ---
 title: Home
-layout: home
+layout: default
 nav_order: 1
 ---
 # Hold dig opdateret med mine techtutorials og dokumentation

@@ -1,4 +1,7 @@
-
+---
+title: test
+layout: home
+---
 
 Tak fordi du besøger min teknologiblog og dokumentationsside. Jeg er glad for, at du er her.
 

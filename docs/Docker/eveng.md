@@ -1,5 +1,5 @@
 ---
-title: Bash script that installs EVE-NG on Ubuntu Server 22.04 into a Docker container
+title: Docker
 layout: home
 ---
 

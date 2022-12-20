@@ -1,3 +1,8 @@
+---
+title: Bash script that installs EVE-NG on Ubuntu Server 22.04 into a Docker container
+layout: home
+---
+
 # Bash script that installs EVE-NG on Ubuntu Server 22.04 into a Docker container
 
 Create a Dockerfile that defines the base image and the commands to install EVE-NG. Here is an example of a Dockerfile that installs EVE-NG using the Bash script:

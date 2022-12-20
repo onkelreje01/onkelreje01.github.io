@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Tak fordi du besøger min teknologiblog og dokumentationsside. Jeg er glad for, at du er her.
